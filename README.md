@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://github.com/aykhanko">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Aykhan;AI+Powered+Builder+%7C+DevOps+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Aykhan;AI+Powered+Builder+%7C+DevOps" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,9 +36,8 @@
 ## GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aykhanko&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&rank_icon=github" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aykhanko&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
-</div>
+</div>>
 
 ---
 
@@ -58,3 +57,4 @@
 
 
 </div>
+
